@@ -1,4 +1,4 @@
-# Weather App
+# Responsive Weather Application
 
 A simple and responsive weather application that allows users to search for any city and view its current weather conditions.
 
